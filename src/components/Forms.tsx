@@ -2,7 +2,7 @@ export default function Forms(){
     return(
         <div>
             <h1 className="text-5xl font-semibold text-center uppercase">
-                enter your detail's
+                enter your detail&apos;s
             </h1>
 
             <div>
@@ -14,7 +14,7 @@ export default function Forms(){
                 placeholder="Enter your Password" />
 
                 <button className=" py-3 px-7 rounded-lg 
-                 bg-blue-500 text-white">Place your order's</button>
+                 bg-blue-500 text-white">Place your order&apos;s</button>
             </form>
             </div>
         
